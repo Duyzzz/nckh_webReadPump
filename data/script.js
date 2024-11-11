@@ -75,3 +75,4 @@ function startUpdating(pumpNumber) {
 document.getElementById('pump1').addEventListener('click', () => startUpdating(1));
 document.getElementById('pump2').addEventListener('click', () => startUpdating(2));
 document.getElementById('pump3').addEventListener('click', () => startUpdating(3));
+
